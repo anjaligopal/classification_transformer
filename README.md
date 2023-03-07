@@ -10,7 +10,7 @@ You also need the standard data science libraries in python (numpy, pandas, matp
 
 # Running an experiment
 
-To run the full set of experiments that I did, clone the repo annd run:
+To run the full set of experiments that I did, clone the repo and run:
 
 ```
 
